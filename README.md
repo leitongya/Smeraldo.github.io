@@ -1,5 +1,4 @@
 # leitongya.github.io
-<%@ page language="java" pageEncoding="GB2312"%>
 <html>
 <head> <title>提交任意2个整数的页面</title> </head>
 <body>
